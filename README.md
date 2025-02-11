@@ -30,6 +30,7 @@ You can pick any of the following reporters or [build your own](https://hexdocs.
 Community supported:
 
 - [`ivanhercaz/tower_telegram`](https://github.com/ivanhercaz/tower_telegram)
+- [`KristerV/tower_discord`](https://github.com/KristerV/tower_discord)
 
 Follow each reporter's README to get `Tower` installed and configured properly.
 
